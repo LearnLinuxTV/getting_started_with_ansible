@@ -1,0 +1,3 @@
+apache_package_name: httpd
+apache_service: httpd
+php_package_name: php
